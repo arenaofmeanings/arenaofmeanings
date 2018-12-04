@@ -1,1 +1,1 @@
-http://arenaofmeanings
+http://arenaofmeanings.github.io
