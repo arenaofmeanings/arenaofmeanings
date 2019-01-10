@@ -72,3 +72,17 @@ body {
 	height: 10%;
 	z-index: 10;
 }
+
+.arena:hover {
+	opacity: 0.3;
+}
+
+.arena:visited {
+  text-decoration: none;
+		color:	#262626;
+}
+
+.arena:link {
+	color:	#262626;
+	text-decoration:none;
+}
