@@ -63,8 +63,8 @@ body {
 }
 
 #image {
-	width: 18%;
-	height:20%;
+	width: 260px;
+	height:390px;
   	background-image: url(s.png);
 	background-repeat: no-repeat;
 	display: flex;
