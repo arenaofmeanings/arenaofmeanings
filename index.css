@@ -90,7 +90,9 @@ body {
 
 
 .you:hover {
-	opacity: 0.3;
+	color: transparent;
+	text-shadow: 0 0 10px darkgrey;
+    filter: blur(4px);
 }
 
 .you:visited {
